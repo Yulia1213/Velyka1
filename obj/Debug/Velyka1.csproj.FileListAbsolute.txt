@@ -1,0 +1,15 @@
+C:\Users\Flo\source\repos\Velyka1\Velyka1\bin\Debug\Velyka1.exe.config
+C:\Users\Flo\source\repos\Velyka1\Velyka1\bin\Debug\Velyka1.exe
+C:\Users\Flo\source\repos\Velyka1\Velyka1\bin\Debug\Velyka1.pdb
+C:\Users\Flo\source\repos\Velyka1\Velyka1\obj\Debug\Velyka1.csprojAssemblyReference.cache
+C:\Users\Flo\source\repos\Velyka1\Velyka1\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Flo\source\repos\Velyka1\Velyka1\obj\Debug\App.g.cs
+C:\Users\Flo\source\repos\Velyka1\Velyka1\obj\Debug\Velyka1_MarkupCompile.cache
+C:\Users\Flo\source\repos\Velyka1\Velyka1\obj\Debug\Velyka1_MarkupCompile.lref
+C:\Users\Flo\source\repos\Velyka1\Velyka1\obj\Debug\Views\MainWindow.baml
+C:\Users\Flo\source\repos\Velyka1\Velyka1\obj\Debug\Velyka1.g.resources
+C:\Users\Flo\source\repos\Velyka1\Velyka1\obj\Debug\Velyka1.Properties.Resources.resources
+C:\Users\Flo\source\repos\Velyka1\Velyka1\obj\Debug\Velyka1.csproj.GenerateResource.cache
+C:\Users\Flo\source\repos\Velyka1\Velyka1\obj\Debug\Velyka1.csproj.CoreCompileInputs.cache
+C:\Users\Flo\source\repos\Velyka1\Velyka1\obj\Debug\Velyka1.exe
+C:\Users\Flo\source\repos\Velyka1\Velyka1\obj\Debug\Velyka1.pdb
